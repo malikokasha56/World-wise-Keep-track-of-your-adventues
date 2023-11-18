@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lahore",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-11-16T17:36:12.111Z",
+      "notes": "Dm pakhta kina",
+      "position": {
+        "lat": "31.481042549451203",
+        "lng": "74.23410519698456"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-16T21:43:46.626Z",
+      "notes": "Jonas\n",
+      "position": {
+        "lat": "40.012078610959165",
+        "lng": "-0.008067369961302086"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Moret-Loing-et-Orvanne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-16T21:43:59.298Z",
+      "notes": "Paris",
+      "position": {
+        "lat": "48.33833146615984",
+        "lng": "2.8565565761064087"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Shimla",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-18T17:39:42.676Z",
+      "notes": "Final",
+      "position": {
+        "lat": "31.05162533301274",
+        "lng": "77.13894717070262"
+      },
+      "id": 4
+    }
+  ]
+}
